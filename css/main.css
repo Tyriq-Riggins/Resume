@@ -1,0 +1,18 @@
+@import "cssreset.css";
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap');
+@import "topsection.css";
+@import "services.css";
+@import "experience-section.css";
+
+.container {
+  max-width: 1150px;
+  margin: 0 auto;
+}
+
+@media only screen and (max-width: 960px){
+  .ontainer{ width: 100%}
+}
+/* Phones */
+@media only screen and (max-width: 767px){
+
+}

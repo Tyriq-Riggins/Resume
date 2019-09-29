@@ -1,0 +1,32 @@
+#Adobe{
+padding: 80px 15px
+
+}
+#Adobe .title{
+position: relative;
+width: 200px;
+height: 200px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 0 auto;
+
+}
+#Adobe .title .circle{
+  background: #eef9ff;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  position: absolute;
+  top: 50px;
+}
+#Adobe .title h1{
+  position: relative;
+  font-size: 3rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #16171b;
+  z-index: 1;
+  letter-spacing: 4px;
+  margin: 0 auto;
+}
